@@ -29,30 +29,28 @@ function Footer() {
 				<div className='footer-link-wrapper'>
 					<div class='footer-link-items'>
 						<h2>Service</h2>
-						<Link to='/sign-up'>How it works</Link>
-						<Link to='/'>Testimonials</Link>
-						<Link to='/'>Careers</Link>
-						<Link to='/'>Investors</Link>
-						<Link to='/'>Terms of Service</Link>
+						<Link to='/sign-up'>Video Stream</Link>
+						<Link to='/'>Multimedia Chat</Link>
+						<Link to='/'>VBlog</Link>
 					</div>
 					<div class='footer-link-items'>
 						<h2>Product</h2>
-						<Link to='/'>Contact</Link>
-						<Link to='/'>Support</Link>
-						<Link to='/'>Destinations</Link>
-						<Link to='/'>Sponsorships</Link>
+						<Link to='/'>EZTV</Link>
+						<Link to='/'>EZStream</Link>
+						<Link to='/'>EZVidChat</Link>
+						<Link to='/'>EZSocial</Link>
 					</div>
 				</div>
 				<div className='footer-link-wrapper'>
 					<div class='footer-link-items'>
-						<h2>Social Media</h2>
-						<Link to='/'>Submit Video</Link>
-						<Link to='/'>Ambassadors</Link>
+						<h2>About Us</h2>
+						<Link to='/'>About Us</Link>
+						<Link to='/'>Contact Us</Link>
 						<Link to='/'>Agency</Link>
 						<Link to='/'>Influencer</Link>
 					</div>
 					<div class='footer-link-items'>
-						<h2>About Us</h2>
+						<h2>Social Media</h2>
 						<Link to='/'>Instagram</Link>
 						<Link to='/'>Facebook</Link>
 						<Link to='/'>Youtube</Link>
